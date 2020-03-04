@@ -1,3 +1,6 @@
+
+[![Run on Repl.it](https://repl.it/badge/github/timgrossmann/InstaPy)](https://repl.it/github/timgrossmann/InstaPy)
+
 <p align="center">
   <img src="https://i.imgur.com/sJzfZsL.jpg" width="154">
   <h1 align="center">InstaPy</h1>
